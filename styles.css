@@ -247,6 +247,11 @@
 /* ======================
    DESKTOP CONTACT
    ====================== */
+.desktop-contact{
+    display: inline-block;
+    white-space: nowrap;
+   }
+
 .desktop-contact a {
     display: flex;
     align-items: center;
@@ -781,6 +786,7 @@
         display: none; /* hide mobile dropdown on desktop */
     }
 }
+
 
 
 
