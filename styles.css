@@ -446,7 +446,7 @@
     display: flex;
     align-items: center;
     gap: 20px;
-    font-size: 14px;
+    font-size: 13px;
     font-weight: 600;
     color: #004285;
     padding: 6px 12px;
@@ -786,6 +786,7 @@
         display: none; /* hide mobile dropdown on desktop */
     }
 }
+
 
 
 
