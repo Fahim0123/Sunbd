@@ -290,7 +290,7 @@
 
 .desktop-contact i {
     color: var(--accent-color);
-    font-size: 1.2rem;
+    font-size: 1.1rem;
     transition: var(--transition-medium);
 }
 
@@ -781,5 +781,6 @@
         display: none; /* hide mobile dropdown on desktop */
     }
 }
+
 
 
